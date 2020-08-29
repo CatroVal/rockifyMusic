@@ -1,2 +1,3 @@
-# rockifyMusic is a personal project that emulates Spotify. 
+# rockifyMusic 
+This a personal project that emulates Spotify. 
 Developed with PHP, HTML, CSS, JavaScript, Jquery, JSON and Ajax calls. 
